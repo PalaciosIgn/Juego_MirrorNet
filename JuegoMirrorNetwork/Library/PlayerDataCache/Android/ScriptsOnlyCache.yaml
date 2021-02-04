@@ -8,8 +8,6 @@ ScriptsOnlyBuild:
     - TurnOffRemotePlayer
     Mirror.Components.dll:
     - Mirror.NetworkTransform
-    Mirror.Editor.dll:
-    - Mirror.NetworkBehaviourInspector
     Mirror.dll:
     - Mirror.NetworkIdentity
     - Mirror.NetworkManager
@@ -65,15 +63,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11292}
     - Class: 114
-      Script: {instanceID: 11296}
+      Script: {instanceID: 11294}
     - Class: 114
-      Script: {instanceID: 11324}
+      Script: {instanceID: 11322}
     - Class: 114
-      Script: {instanceID: 11404}
+      Script: {instanceID: 11402}
     - Class: 114
-      Script: {instanceID: 11534}
+      Script: {instanceID: 11532}
     - Class: 114
-      Script: {instanceID: 11728}
+      Script: {instanceID: 11726}
     - Class: 114
       Script: {instanceID: 12184}
     - Class: 114
@@ -81,15 +79,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12526}
     - Class: 114
-      Script: {instanceID: 13290}
+      Script: {instanceID: 13288}
     - Class: 114
-      Script: {instanceID: 13356}
+      Script: {instanceID: 13354}
     - Class: 114
-      Script: {instanceID: 13548}
+      Script: {instanceID: 13546}
     - Class: 114
-      Script: {instanceID: 13784}
+      Script: {instanceID: 13782}
     - Class: 114
-      Script: {instanceID: 13874}
+      Script: {instanceID: 13872}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -147,12 +145,6 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Image
-  - hash:
-      serializedVersion: 2
-      Hash: caa533b001ae39b864ba8425019e2268
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: Shadow
   - hash:
       serializedVersion: 2
       Hash: cc4274b586df3c02688bac01b88bd16c
@@ -579,6 +571,12 @@ ScriptsOnlyBuild:
     assemblyName: Mirror.dll
     namespaceName: Mirror
     className: MultiplexTransport
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
   - hash:
       serializedVersion: 2
       Hash: e87f50864f8a979f1228e8c69bd62658
@@ -1614,4 +1612,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Ignacio/Documents/Developer/Unity/01-JuegoMirrorNetwork/JuegoAndroid/juego5.apk
+  playerPath: C:/Users/Ignacio/Desktop/juego8.apk
