@@ -7,7 +7,7 @@ using UnityStandardAssets.CrossPlatformInput;
 public class Player : MonoBehaviour
 {
     Rigidbody rb;
-    public float velocidad = 1;
+    public float velocidad = 10;
     private TextMesh tm = null;
     private Text ui = null;
 
