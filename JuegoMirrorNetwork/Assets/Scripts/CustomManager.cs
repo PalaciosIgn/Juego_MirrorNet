@@ -42,7 +42,7 @@ public class CustomManager : NetworkManager
         }
         else
         {
-            NetworkManager.singleton.networkPort = 7777;
+            NetworkManager.singleton.networkPort = 5555;
             return true;
         }
     }
