@@ -70,33 +70,33 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11294}
     - Class: 114
-      Script: {instanceID: 11322}
+      Script: {instanceID: 11342}
     - Class: 114
-      Script: {instanceID: 11402}
+      Script: {instanceID: 11422}
     - Class: 114
-      Script: {instanceID: 11532}
+      Script: {instanceID: 11552}
     - Class: 114
-      Script: {instanceID: 11726}
+      Script: {instanceID: 11746}
     - Class: 114
-      Script: {instanceID: 12184}
+      Script: {instanceID: 12204}
     - Class: 114
-      Script: {instanceID: 12470}
+      Script: {instanceID: 12490}
     - Class: 114
-      Script: {instanceID: 12526}
+      Script: {instanceID: 12546}
     - Class: 114
-      Script: {instanceID: 12898}
+      Script: {instanceID: 12918}
     - Class: 114
-      Script: {instanceID: 13288}
+      Script: {instanceID: 13308}
     - Class: 114
-      Script: {instanceID: 13354}
+      Script: {instanceID: 13374}
     - Class: 114
-      Script: {instanceID: 13546}
+      Script: {instanceID: 13566}
     - Class: 114
-      Script: {instanceID: 13666}
+      Script: {instanceID: 13686}
     - Class: 114
-      Script: {instanceID: 13784}
+      Script: {instanceID: 13804}
     - Class: 114
-      Script: {instanceID: 13874}
+      Script: {instanceID: 13894}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1375,4 +1375,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Ignacio/Desktop/juego12.apk
+  playerPath: C:/Users/Ignacio/Desktop/juego13.apk
