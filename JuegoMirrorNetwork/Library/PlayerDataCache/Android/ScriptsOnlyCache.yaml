@@ -85,9 +85,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13546}
     - Class: 114
-      Script: {instanceID: 13782}
+      Script: {instanceID: 13784}
     - Class: 114
-      Script: {instanceID: 13872}
+      Script: {instanceID: 13874}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -291,7 +291,7 @@ ScriptsOnlyBuild:
     className: ActivationTrack
   - hash:
       serializedVersion: 2
-      Hash: b2b4a4bf81317f3c08703a1773162a08
+      Hash: 088ba1753edbb667a4bf4703016baf37
     assemblyName: Mirror.dll
     namespaceName: Mirror
     className: NetworkManager
@@ -483,7 +483,7 @@ ScriptsOnlyBuild:
     className: AnimationTrack
   - hash:
       serializedVersion: 2
-      Hash: 1819ce053d46070dc0fa64957811d105
+      Hash: 850523b1bba4ca29a834eb85936fcacd
     assemblyName: Mirror.Examples.dll
     namespaceName: Mirror.Examples.Basic
     className: BasicNetManager
@@ -585,7 +585,7 @@ ScriptsOnlyBuild:
     className: Player
   - hash:
       serializedVersion: 2
-      Hash: 09a332418522e82d937585e2a061b3cf
+      Hash: 449fceefb229f412d54a4e80a61abb40
     assemblyName: Mirror.Examples.dll
     namespaceName: Mirror.Examples.Benchmark
     className: BenchmarkNetworkManager
@@ -681,7 +681,7 @@ ScriptsOnlyBuild:
     className: Joystick
   - hash:
       serializedVersion: 2
-      Hash: e6b0b783ea73cf405c717cd9b89fbd7c
+      Hash: 6b8f185837a410fa4f9f815a9029003c
     assemblyName: Mirror.Components.dll
     namespaceName: Mirror
     className: NetworkRoomManager
@@ -885,7 +885,7 @@ ScriptsOnlyBuild:
     className: Ball
   - hash:
       serializedVersion: 2
-      Hash: b2b4a4bf81317f3c08703a1773162a08
+      Hash: 088ba1753edbb667a4bf4703016baf37
     assemblyName: Mirror.Examples.Cloud.Pong.dll
     namespaceName: Mirror.Cloud.Example
     className: NetworkManagerListServerPong
@@ -999,7 +999,7 @@ ScriptsOnlyBuild:
     className: NetworkPingDisplay
   - hash:
       serializedVersion: 2
-      Hash: f52f0b15bed2b56b2f0be090a01715d5
+      Hash: aef24d3e792464313d3b7aac79a932c6
     assemblyName: Mirror.Examples.dll
     namespaceName: Mirror.Examples.Chat
     className: ChatNetworkManager
@@ -1071,7 +1071,7 @@ ScriptsOnlyBuild:
     className: TargetFieldOfView
   - hash:
       serializedVersion: 2
-      Hash: 99c0a126362deee82174d19c1101b9d8
+      Hash: 01a2dd301e221b778eb92ca3acec2298
     assemblyName: Mirror.Examples.dll
     namespaceName: Mirror.Examples.Additive
     className: AdditiveNetworkManager
@@ -1233,13 +1233,13 @@ ScriptsOnlyBuild:
     className: Mudguard
   - hash:
       serializedVersion: 2
-      Hash: 1088b99d0c88ca05dcb48022854c0cd7
+      Hash: c75926b4b697ee881283ca4d542d5b60
     assemblyName: Mirror.Examples.dll
     namespaceName: Mirror.Examples.Pong
     className: NetworkManagerPong
   - hash:
       serializedVersion: 2
-      Hash: b161cec9f1aa3450287de7d46cdd621a
+      Hash: d491aef15cc962258a75f6f1fe682a9b
     assemblyName: Mirror.Examples.dll
     namespaceName: Mirror.Examples.MultipleMatch
     className: MatchNetworkManager
@@ -1275,7 +1275,7 @@ ScriptsOnlyBuild:
     className: CarAudio
   - hash:
       serializedVersion: 2
-      Hash: 38df5159a8fc5f22f3fbf2e820a38263
+      Hash: e69f047c314b43bacdca44cc18211b2e
     assemblyName: Mirror.Examples.dll
     namespaceName: Mirror.Examples.NetworkRoom
     className: NetworkRoomManagerExt
@@ -1395,7 +1395,7 @@ ScriptsOnlyBuild:
     className: GerstnerDisplace
   - hash:
       serializedVersion: 2
-      Hash: e6b0b783ea73cf405c717cd9b89fbd7c
+      Hash: 6b8f185837a410fa4f9f815a9029003c
     assemblyName: Mirror.Components.dll
     namespaceName: Mirror
     className: NetworkLobbyManager
@@ -1443,7 +1443,7 @@ ScriptsOnlyBuild:
     className: Player
   - hash:
       serializedVersion: 2
-      Hash: 87c5db0617cbaa0f83b4cf2da2985e62
+      Hash: d72e1fbd5430205554994d4b2817afca
     assemblyName: Mirror.Examples.dll
     namespaceName: Mirror.Examples.MultipleAdditiveScenes
     className: MultiSceneNetManager
@@ -1473,10 +1473,16 @@ ScriptsOnlyBuild:
     className: NetworkDiscovery
   - hash:
       serializedVersion: 2
-      Hash: b2b4a4bf81317f3c08703a1773162a08
+      Hash: 088ba1753edbb667a4bf4703016baf37
     assemblyName: Mirror.Examples.Cloud.GUI.dll
     namespaceName: Mirror.Cloud.Example
     className: NetworkManagerListServer
+  - hash:
+      serializedVersion: 2
+      Hash: 3511f33b7e616140e9b78a14a280f1d8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CustomManager
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1612,4 +1618,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Ignacio/Desktop/juego8.apk
+  playerPath: C:/Users/Ignacio/Desktop/juego10.apk
