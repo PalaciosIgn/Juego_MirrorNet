@@ -1091,6 +1091,7 @@ namespace Mirror
         /// List of transforms populted by NetworkStartPosition components found in the scene.
         /// </summary>
         public static List<Transform> startPositions = new List<Transform>();
+        public int networkPort;
 
         /// <summary>
         /// Registers the transform of a game object as a player spawn location.
